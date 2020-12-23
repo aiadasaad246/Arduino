@@ -6,3 +6,4 @@ void Increase(int *writevalue)
     *writevalue += 25;
   }
 }
+
