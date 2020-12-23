@@ -6,3 +6,4 @@ void Decrease(int *writevalue)
     *writevalue -= 25;
   } 
 }
+
